@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## Quick Intro
+My name is Donovan, and I've been programming since I was a senior in high school. Now I am a full-time software developer and part-time grad student. I enjoy a healthy dose of gaming from time to time.
 <!--
 **donovanolivarez/donovanolivarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
+[![Donovan's GitHub stats](https://github-readme-stats.vercel.app/api?username=donovanolivarez&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
